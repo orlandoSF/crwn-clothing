@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans Condensed';
+    font-family:  'Open Sans Condensed', sans-serif;
     padding: 20px 80px;
 }
 
@@ -9,4 +9,8 @@ h1 {
 a {
     text-decoration: none;
     color: black;
+}
+
+* {
+    box-sizing: border-box;
 }
